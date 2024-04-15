@@ -1,0 +1,2 @@
+# Buscas
+Tipos de busca 
